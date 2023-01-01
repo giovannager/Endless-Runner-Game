@@ -1,4 +1,13 @@
 # Endless-Runner-Game
-An endless runner game called "Moonbyul's Hip Adventure" inspired by Mamamoo's song and music video "Hip"
+A solely developed endless runner game called "Moonbyul's Hip Adventure" inspired by Mamamoo's song and music video "Hip".
 
-Credits to Mamamoo's hip for the music and inspiration behind the game. The music was a self-created cover, but is heavily based off of the original track.
+The project was completed using Python's PyGame library in January of 2020 as a final school project for a grade 11 programming course.
+
+## Short Gameplay Demo
+https://user-images.githubusercontent.com/82919096/210186948-c09b6484-55f4-4e6f-bfe0-4b48ac625a23.mp4
+
+All art was self-drawn using Clip Studio Paint, and all audio was created using FL Studio.
+
+## Sound Credits
+Credits to Mamamoo's Hip for the music and inspiration behind the game. 
+The background music was a self-created cover of Mamamoo's Hip, but is heavily based off of the original track.
